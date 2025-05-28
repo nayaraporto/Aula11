@@ -12,7 +12,7 @@ public class CavernadosDragoes {
         
 
         System.out.println("CAVERNA DOS DRAGÕES");
-        System.out.println("Você entrou em uma caverna misteriosa para buscar os tesouros...");
+        System.out.println("Você entrou em uma caverna para encontrar tesouros...");
         System.out.println("Mas cuidado! Há dragões por todos os lados.");
 
         while (pontos < pontosParaVencer) {
